@@ -10,3 +10,5 @@ echo "set expandtab" >> .vimrc
 
 rm ~/.vimrc
 cp `dirname '$0'`/.vimrc ~/.vimrc
+
+echo "~/.vimrc file changed."
