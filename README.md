@@ -3,3 +3,5 @@ For setup option values, let you change option values on top parts of <a href='/
 
 # Option List
  - Tab Size (default 4)
+ - Auto Indent
+ - Color Syntax
