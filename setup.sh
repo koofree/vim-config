@@ -34,6 +34,7 @@ echo "Plug 'fatih/vim-go', { 'tag': '*' }" >> .vimrc
 echo "Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }" >> .vimrc
 echo "Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }" >> .vimrc
 echo "Plug '~/my-prototype-plugin'" >> .vimrc
+echo "Plug 'Chiel92/vim-autoformat'" >> .vimrc
 echo "call plug#end()" >> .vimrc
 
 rm ~/.vimrc
