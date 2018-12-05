@@ -20,6 +20,7 @@ echo "" >> .vimrc
 echo "filetype plugin indent on" >> .vimrc
 echo "set term=builtin_ansi" >> .vimrc
 echo "syntax on" >> .vimrc
+echo "" >> .vimrc
 
 # Add Plugin Manager
 echo "call plug#begin('~/.vim/plugged')" >> .vimrc
